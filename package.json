@@ -19,6 +19,7 @@
   "dependencies": {
     "apollo-server": "^2.19.0",
     "crypto": "^1.0.1",
+    "dotenv": "^8.2.0",
     "fogg-utils": "^2.7.5",
     "graphql": "^15.4.0",
     "jsonwebtoken": "^8.5.1",
