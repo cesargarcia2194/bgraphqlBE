@@ -1,4 +1,5 @@
-require('dotenv').config()
+import { config } from 'dotenv'
+config()
 export default {
     development: {
         serverPort: process.env.SERVER_PORT,
